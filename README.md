@@ -98,21 +98,15 @@ git clone https://github.com/YourUsername/interactive-art-landing-page.git
 
 ## 📸 Screenshots
 
-### Home Page
+### landing Page
 
-![Home](images/home.png)
+![1](images/1.png)
 
-### Hero Section
+![2](images/2.png)
 
-![Hero](images/hero.png)
+![3](images/3.png)
 
-### Portfolio
-
-![Portfolio](images/portfolio.png)
-
-### Testimonials
-
-![Testimonials](images/testimonials.png)
+![4](images/4.png)
 
 ---
 
